@@ -9,7 +9,7 @@ I'm currently a student pursuing my BE in Electronics and Communication Engineer
 * 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [faizanzaid789@gmail.com](mailto:faizanzaid789@gmail.com)
 * 🚀  I'm currently working on [My personal blog](https://techwithfz.vercel.app)
-* 🧠  I'm currently learning Data Structures and Algorithms
+* 🧠  I'm learning Data Structures and Algorithms
 
 ### Skills
 
