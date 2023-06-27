@@ -4,11 +4,11 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Student and Aspiring Developer
 ------------------------------
 
-I'm currently a student pursuing my BE in Electronics and Communication Engineering. Since I joined college, I have been very much interested in technology and I wanted to know how these things work in real life. On this note, I've started exploring and learning a few technologies like how websites work and by the way, I was very much interested in Web Development. Coming to my point, I learned the basic fundamentals of Web Development which are of course HTML, CSS, and JavaScript. I boosted my learning by building projects on my own and started to explore even more because I could have a hunger to learn new things that fascinated me the most. I learned ReactJS and I was in love with it. Along with it, I learned version control and a few concepts of Linux. To conclude, I'm still learning by building projects and by learning new technologies on daily basis. I would love to share my knowledge by building valuable stuff for your company, looking forward to working with you.
+I'm currently a student pursuing my BE in Electronics and Communication Engineering. Since I joined college, I have been very much interested in technology and I wanted to know how these things work in real life. On this note, I've started exploring and learning a few technologies like how websites work and by the way, I was very much interested in Web Development. Coming to my point, I learned the basic fundamentals of Web Development which are of course HTML, CSS, and JavaScript. I boosted my learning by building projects on my own and started to explore even more because I could have a hunger to learn new things that fascinated me the most. I learned ReactJS and I was in love with it. Along with it, I learned version control and a few concepts of Linux. To conclude, I'm still learning by building projects and by learning new technologies on a daily basis. I would love to share my knowledge by building valuable stuff for your company, looking forward to working with you.
 
 * 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [faizanzaid789@gmail.com](mailto:faizanzaid789@gmail.com)
-* 🚀  I'm currently working on [My personal blog](https://techwithfz.vercel.app)
+* 🚀  [My personal blog](https://techwithfz.vercel.app)
 * 🧠  I'm learning Data Structures and Algorithms
 
 ### Skills
