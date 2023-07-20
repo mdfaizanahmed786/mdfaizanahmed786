@@ -28,7 +28,6 @@ I'm currently a student pursuing my BE in Electronics and Communication Engineer
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/512/node-js.png" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/512/express-js.png" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/mongodb.png" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/512/mysql-logo.png" width="36" height="36" alt="MySQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/firebase.png" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/figma.png" width="36" height="36" alt="Figma" /></a>
 </p>
