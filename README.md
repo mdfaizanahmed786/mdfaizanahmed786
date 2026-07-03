@@ -1,7 +1,7 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Faizan Ahmed
 =======================================================================================================================================
 
-Student and Aspiring Developer
+Remote software Dev
 ------------------------------
 
 I'm currently a student pursuing my BE. Since I joined college, I was very interested in technology and wanted to know how these things work in real life. On this note, I've started exploring and learning a few technologies like how websites work and by the way, I was very interested in Web Development. Coming to my point, I learned the basic fundamentals of Web Development: HTML, CSS, and JavaScript. I boosted my learning by building projects on my own and started to explore even more because I could have a hunger to learn new things that fascinated me the most. I learned ReactJS and I was in love with it. Along with it, I learned version control and a few concepts of Linux. I'm still learning by building projects and learning new technologies daily. I would love to share my knowledge by building valuable stuff for your company, looking forward to working with you.
